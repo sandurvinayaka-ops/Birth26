@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Global Birth Counter",
+  "description": "A real-time demographic visualizer tracking global births as they happen.",
+  "requestFramePermissions": []
+}
